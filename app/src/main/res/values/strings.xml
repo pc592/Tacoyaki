@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tacoyaki+</string>
+    <string name="start_game">Start</string>
+    <string name="choose_board">Choose Board Size</string>
+    <string name="ok">OK</string>
+
+    <string name="restart">Restart</string>
+    <string name="back">Back</string>
+    <string name="newBoard">New</string>
+
+    <string name="congratulations">Congratulations!</string>
+    <string name="won">You\'ve won!</string>
+    <string name="play_again">Play Again</string>
+    <string name="different_size">Choose A Different Size</string>
+
+</resources>
